@@ -1,7 +1,7 @@
 # vrpataskar-1505
 
 
-👋 Hey there, I’m **Vaishnavi Pataskar**!
+👋 Hey, I’m Vaishnavi!
 
 I’m a Final year B.Tech ENTC student with a growing interest in **Software Development**. Aspiring software developer seeking to leverage skills in Java, Python, React, SQL, and data analysis to build scalable
 applications and deliver innovative solutions. Passionate about applying AI, machine learning, and automation techniques to solve real-world challenges while continuously enhancing technical expertise and exploring emerging AI technologies.
