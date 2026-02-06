@@ -1,16 +1,26 @@
-## Hi there 👋
+# vrpataskar-1505
 
-<!--
-**vrpataskar-1505/vrpataskar-1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hey there, I’m **Vaishnavi Pataskar**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Final year B.Tech ENTC student with a growing interest in **Software Development**. Aspiring software developer seeking to leverage skills in Java, Python, React, SQL, and data analysis to build scalable
+applications and deliver innovative solutions. Passionate about applying AI, machine learning, and automation techniques to solve real-world challenges while continuously enhancing technical expertise and exploring emerging AI technologies.
+
+
+I believe in learning deeply, staying consistent, and improving a little every day.
+
+---
+
+🛠️ Tech Stack
+
+💻 **Languages I speak**  
+• Java <br>
+• Javascript   <br>
+• Python  <br>
+• HTML, CSS  
+
+
+🧰 Tools & Platforms  
+• Git  
+• Linux / Windows  
+• VS Code  
