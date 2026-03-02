@@ -13,7 +13,7 @@ I believe in learning deeply, staying consistent, and improving a little every d
 
 🛠️ Tech Stack
 
-💻 **Languages I speak**  
+💻 **Languages**  
 • Java <br>
 • Javascript   <br>
 • Python  <br>
