@@ -42,41 +42,19 @@ MySQL
 
 📊 **Microsoft Office**
 
-MS Excel
-
-MS Word
-
-MS PowerPoint
+MS Excel, MS Word, MS PowerPoint
 
 🔄** Methodologies**
 
-Agile Framework
-
-Scrum
-
-Kanban
+Agile Framework, Scrum, Kanban
 
 🔁 **Software Lifecycle**
 
-SDLC (Software Development Lifecycle)
-
-STLC (Software Testing Lifecycle)
+SDLC (Software Development Lifecycle), STLC (Software Testing Lifecycle)
 
 🛠 **Tools & Platforms**
 
-Git
-
-GitHub
-
-Figma
-
-Power BI
-
-VS Code
-
-Eclipse
-
-IntelliJ
+Git, GitHub, Figma, Power BI, VS Code, Eclipse, IntelliJ
 
 NetBeans
 
