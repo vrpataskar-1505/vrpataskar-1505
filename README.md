@@ -41,3 +41,13 @@ SDLC (Software Development Lifecycle), STLC (Software Testing Lifecycle)
 🛠 **Tools & Platforms**
 
 Git, GitHub, Figma, Power BI, VS Code, Eclipse, IntelliJ, NetBeans, LaTeX, JIRA, Confluence, Microsoft Azure (AZ-900)
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+🔗 <a href="https://leetcode.com/vrpataskar/">LeetCode</a><br>
+💼 <a href="https://linkedin.com/in/your-link/vaishnavi-pataskar15">LinkedIn</a><br>
+📧 <a href="mailto:vaishnavi.pataskar15@gmail.com">vaishnavi.pataskar15@gmail.com</a>
+</p>
