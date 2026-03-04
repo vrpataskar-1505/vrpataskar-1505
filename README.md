@@ -54,14 +54,4 @@ SDLC (Software Development Lifecycle), STLC (Software Testing Lifecycle)
 
 🛠 **Tools & Platforms**
 
-Git, GitHub, Figma, Power BI, VS Code, Eclipse, IntelliJ
-
-NetBeans
-
-LaTeX
-
-JIRA
-
-Confluence
-
-Microsoft Azure (AZ-900)
+Git, GitHub, Figma, Power BI, VS Code, Eclipse, IntelliJ, NetBeans, LaTeX, JIRA, Confluence, Microsoft Azure (AZ-900)
