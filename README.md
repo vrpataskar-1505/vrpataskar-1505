@@ -12,7 +12,8 @@ I believe in learning deeply, staying consistent, and improving a little every d
 ---
 
 
-🛠️ Core Software Skills
+🛠️ **Core Software Skills**
+
 💻 **Programming Languages**
 
 Java
