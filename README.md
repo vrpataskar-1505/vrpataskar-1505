@@ -16,25 +16,11 @@ I believe in learning deeply, staying consistent, and improving a little every d
 
 💻 **Programming Languages**
 
-Java
-
-Python
-
-JavaScript
+Java, Python, JavaScript
 
 🌐 **Web Technologies**
 
-HTML5
-
-CSS3
-
-Bootstrap
-
-React.js
-
-Tailwind CSS
-
-Django
+HTML5, CSS3, Bootstrap, React.js, Tailwind CSS, Django
 
 🗄 **Databases**
 
