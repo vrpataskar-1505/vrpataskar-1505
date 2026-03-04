@@ -30,7 +30,7 @@ MySQL
 
 MS Excel, MS Word, MS PowerPoint
 
-🔄** Methodologies**
+🔄**Methodologies**
 
 Agile Framework, Scrum, Kanban
 
