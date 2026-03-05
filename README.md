@@ -7,7 +7,6 @@ I’m a Final year B.Tech ENTC student with a growing interest in **Software Dev
 applications and deliver innovative solutions. Passionate about applying AI and automation techniques to solve real-world challenges while continuously enhancing technical expertise and exploring emerging AI technologies.
 
 
-I believe in learning deeply, staying consistent, and improving a little every day.
 
 ---
 
