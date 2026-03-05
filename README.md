@@ -46,7 +46,7 @@ Git, GitHub, Figma, Power BI, VS Code, Eclipse, IntelliJ, NetBeans, LaTeX, JIRA,
 ### 🌐 Connect With Me
 
 <p>
-🔗 <a href="https://leetcode.com/in/vrpataskar/">LeetCode</a><br>
+🔗 <a href="https://leetcode.com/u/vrpataskar">LeetCode</a><br>
 💼 <a href="https://linkedin.com/in/vaishnavi-pataskar15">LinkedIn</a><br>
 📧 <a href="mailto:vaishnavi.pataskar15@gmail.com">vaishnavi.pataskar15@gmail.com</a>
 </p>
