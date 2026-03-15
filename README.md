@@ -15,15 +15,19 @@ applications and deliver innovative solutions. Passionate about applying AI and 
 
 💻 **Programming Languages**
 
-Java, Python, JavaScript
+Java, Python, JavaScript, sql
 
 🌐 **Web Technologies**
 
-HTML5, CSS3, Bootstrap, React.js, Tailwind CSS, Django
+HTML5, CSS3, Bootstrap, React.js, Tailwind CSS
 
 🗄 **Databases**
 
 MySQL
+
+⚙️ **Backend**
+
+Django, Django REST Framework, 
 
 📊 **Microsoft Office**
 
