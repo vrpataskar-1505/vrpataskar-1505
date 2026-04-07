@@ -35,7 +35,7 @@ MS Excel, MS Word, MS PowerPoint
 
 🔄**Methodologies**
 
-Agile Framework, Scrum, Kanban, Basic ITIL Concepts
+Agile Framework, Scrum, Kanban
 
 🔁 **Software Lifecycle**
 
