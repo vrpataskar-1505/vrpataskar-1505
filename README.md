@@ -49,5 +49,7 @@ Working on an end-to-end Azure data pipeline and a Snowflake + API-based ETL pro
 ### 🌐 Connect With Me
 
 💼 [LinkedIn](https://linkedin.com/in/vaishnavi-pataskar15)
+
 🔗 [LeetCode](https://leetcode.com/u/vrpataskar)
+
 📧 [vaishnavi.pataskar15@gmail.com](mailto:vaishnavi.pataskar15@gmail.com)
