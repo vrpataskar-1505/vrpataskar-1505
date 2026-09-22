@@ -1,56 +1,53 @@
-# vrpataskar-1505
+### 👋 Hey, I'm Vaishnavi!
 
-
-👋 Hey, I’m Vaishnavi!
-
-I’m a Final year B.Tech ENTC student with a growing interest in **Software Development**. Aspiring software developer seeking to leverage skills in Java, Python, React, SQL, and web technologies to build scalable
-applications and deliver innovative solutions. Skilled in working with databases, SQL querying, and building backend systems with REST APIs. Passionate about applying AI and automation techniques to solve real-world challenges while continuously enhancing technical expertise and exploring emerging AI technologies.
-
-
+B.Tech graduate from AISSMS Institute of Information Technology, focused on building a career in Data Engineering. I have a strong foundation in Python, SQL, and databases, with hands-on learning in ETL, Linux, Snowflake, Hadoop, Hive, Spark, and PySpark.
+ 
+Alongside Data Engineering, I’m also interested in Generative AI and exploring how data, Python, and AI can be used to build practical solutions. I enjoy solving problems, working with data, and continuously learning through hands-on practice and projects.
+ 
+Open to entry-level opportunities in Data Engineering, Data Analytics, and related data/AI roles.
 
 ---
 
+### 🛠️ Data Engineering Skills
 
-🛠️ **Core Software Skills**
+**Languages & Querying**
+`SQL` `Python` `Pandas` 
 
-💻 **Programming Languages**
+**Cloud & Data Platforms**
+`Microsoft Azure` `Snowflake` `Apache Spark` `Apache Hadoop` `Hive`
 
-Java, Python, JavaScript, sql
+**Visualization**
+`Power BI`
 
-🌐 **Web Technologies**
+**Certifications**
+`Microsoft Certified: Azure Fundamentals (AZ-900)` · `Oracle Cloud Infrastructure 2025 Certified Foundations Associate`
 
-HTML5, CSS3, Bootstrap, React.js, Tailwind CSS
+---
 
-🗄 **Databases**
+### 💻 Software Development Background
 
-MySQL
+**Languages:** Java, Python, JavaScript, SQL
+**Web:** HTML5, CSS3, Bootstrap, React.js, Tailwind CSS
+**Backend:** Django, Django REST Framework, API Integration
+**Databases:** MySQL
 
-⚙️ **Backend**
+---
 
-Django, Django REST Framework, API Integration 
+### ⚙️ Tools & Methodologies
 
-📊 **Microsoft Office**
+Git, GitHub, VS Code, IntelliJ, JIRA, Confluence, Figma
+Agile · Scrum · Kanban · SDLC · STLC
 
-MS Excel, MS Word, MS PowerPoint
+---
 
-🔄**Methodologies**
+### 🌱 Currently Building
 
-Agile Framework, Scrum, Kanban
-
-🔁 **Software Lifecycle**
-
-SDLC (Software Development Lifecycle), STLC (Software Testing Lifecycle)
-
-🛠 **Tools & Platforms**
-
-Git, GitHub, Figma, Power BI, VS Code, Eclipse, IntelliJ, NetBeans, LaTeX, JIRA, Confluence, Basic Exposure to Splunk, Microsoft Azure (AZ-900)
+Working on an end-to-end Azure data pipeline and a Snowflake + API-based ETL project — check my pinned repos for progress.
 
 ---
 
 ### 🌐 Connect With Me
 
-<p>
-🔗 <a href="https://leetcode.com/u/vrpataskar">LeetCode</a><br>
-💼 <a href="https://linkedin.com/in/vaishnavi-pataskar15">LinkedIn</a><br>
-📧 <a href="mailto:vaishnavi.pataskar15@gmail.com">vaishnavi.pataskar15@gmail.com</a>
-</p>
+💼 [LinkedIn](https://linkedin.com/in/vaishnavi-pataskar15)
+🔗 [LeetCode](https://leetcode.com/u/vrpataskar)
+📧 [vaishnavi.pataskar15@gmail.com](mailto:vaishnavi.pataskar15@gmail.com)
