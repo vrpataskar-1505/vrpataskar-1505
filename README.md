@@ -42,7 +42,7 @@ Agile · Scrum · Kanban · SDLC · STLC
 
 ### 🌱 Currently Building
 
-Working on an end-to-end Azure data pipeline and a Snowflake + API-based ETL project — check my pinned repos for progress.
+Working on an end-to-end Azure data pipeline and a Snowflake + API-based ETL project.
 
 ---
 
